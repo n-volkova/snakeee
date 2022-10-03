@@ -18,7 +18,10 @@
     "paths": {
       "@/*": [
         "src/*"
-      ]
+      ],
+      "pixi.js": [
+        "node_modules/pixi.js/index.d.ts" 
+      ],
     },
     "lib": [
       "esnext",
